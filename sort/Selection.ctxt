@@ -1,6 +1,6 @@
 #BlueJ class context
-comment0.target=Insertion
-comment0.text=\r\n\ basic\ array\ insertion\ sort\ in\ Java\r\n\ @author\ Landyn\r\n\ @version\ 1.1.0\r\n
+comment0.target=Selection
+comment0.text=\r\n\ basic\ array\ selection\ sort\ in\ Java\r\n\ @author\ Landyn\r\n\ @version\ 1.1.0\r\n
 comment1.params=arr
 comment1.target=int[]\ sort(int[])
 comment2.params=args
